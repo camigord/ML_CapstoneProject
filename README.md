@@ -32,3 +32,4 @@ All the code was implemented as Jupyter Notebooks (Python 2.7). The following is
 - *7_Evaluate_Models.ipynb*
 > Finally, this script loads both models and uses OpenCV to capture frames from a WebCam and test the performance of the proposed approach on those images. OpenCV and its video codecs are requied to capture camera frames.
 
+The folder *Models/* contains all the pretrained parametes.
